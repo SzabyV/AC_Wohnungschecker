@@ -1,0 +1,56 @@
+'propertyDefinition': {'group': 
+				{'propertyGroupId': 
+					{'guid': '6F9A2826-07FD-1A4C-89DC-4A375981F31A'}, 
+				'name': 'Raume'
+				},
+			'name': 'Wohnungstyp',
+			'description': '', 
+			'isEditable': True,
+			'type': 'singleEnum',
+			'propertyId': 
+				{'guid': '6B110E7E-40FE-47C2-887E-51B74C6B15A4'
+				},
+			'possibleEnumValues': 
+					[	{'enumValue':
+							{'enumValueId': 
+								{'displayValue': 'Apartment',
+								'type': 'displayValue'
+								},
+							'displayValue': 'Apartment'
+							}
+						}, 
+						{'enumValue': 
+							{'enumValueId': 
+								{'displayValue': '1-Zimmer',
+								'type': 'displayValue'
+								}, 
+							'displayValue': '1-Zimmer'
+							}
+						}, 
+						{'enumValue': 
+							{'enumValueId': 
+								{'displayValue': '2-Zimmer', 
+								'type': 'displayValue'
+								},
+							 'displayValue': '2-Zimmer'
+							}
+						}, 
+						{'enumValue': {'enumValueId': {'displayValue': '3-Zimmer', 'type': 'displayValue'}, 'displayValue': '3-Zimmer'}},
+						{'enumValue': {'enumValueId': {'displayValue': '4-Zimmer', 'type': 'displayValue'}, 'displayValue': '4-Zimmer'}},
+						{'enumValue': {'enumValueId': {'displayValue': '5-Zimmer', 'type': 'displayValue'}, 'displayValue': '5-Zimmer'}},
+						{'enumValue': {'enumValueId': {'displayValue': 'k.A.', 'type': 'displayValue'}, 'displayValue': 'k.A.'}}
+					], 
+
+			'defaultValue':
+					{'basicDefaultValue':
+						{'value': 
+							{'displayValue': 'k.A.',
+							 'type': 'displayValue'
+							}, 
+						'type': 'singleEnum',
+						'status': 'normal'
+						}
+					}
+				}
+			}
+]
